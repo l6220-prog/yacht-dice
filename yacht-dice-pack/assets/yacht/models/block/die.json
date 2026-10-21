@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "yacht:block/die_1",
+    "up": "yacht:block/die_1",
+    "down": "yacht:block/die_6",
+    "north": "yacht:block/die_2",
+    "south": "yacht:block/die_5",
+    "east": "yacht:block/die_3",
+    "west": "yacht:block/die_4"
+  }
+}
